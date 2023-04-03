@@ -153,6 +153,6 @@ mod fences {
 
     #[test]
     fn test_main() {
-        main()
+        main();
     }
 }
