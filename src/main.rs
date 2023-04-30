@@ -1,3 +1,4 @@
+mod arc;
 mod channels;
 mod memory_ordering;
 mod spinning;
